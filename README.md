@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @rey-andre
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning React Native
+<!---
 - 💞️ I’m looking to collaborate on ...
+--->
 - 📫 How to reach me reynoldsantui@gmail.com
 
 <!---
