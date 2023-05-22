@@ -3,9 +3,10 @@
 ## About Me
 I'm a software engineering student at Sekolah Vokasi IPB, passionate about web development with a focus on both front-end and back-end. I love building creative and functional websites.
 
-## Contact Information
-- Email: reynold.dre@gmail.com
-- Instagram: [reynold.sgn](https://www.instagram.com/reynold.sgn/)
+## ⭐ Statistics
+![Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rey-andre&show_icons=true&theme=nightowl)
+![Rey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rey-andre&exclude_repo=Slims9-Kuningan&layout=compact&theme=nightowl) 
+
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,6 +22,8 @@ I'm a software engineering student at Sekolah Vokasi IPB, passionate about web d
 - [Project 2](link-to-project-2): Short description of the project.
 - [Project 3](link-to-project-3): Short description of the project. -->
 
+## Contact Information
+[![Gmail Badge](https://img.shields.io/badge/-reynold.dre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:areynold.dre@gmail.com)](mailto:reynold.dre@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-reynold.sgn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/reynold.sgn/)](https://instagram.com/reynold.sgn)
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
 
