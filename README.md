@@ -1,7 +1,7 @@
 # Hello, I'm Reynold Andre! 👋
 
 ## About Me
-I'm a software engineering student at Sekolah Vokasi IPB, passionate about web development with a focus on both front-end and back-end. I love building creative and functional websites.
+A Web Developer and Software Engineering Technology graduate from IPB University, with experience in web application development, a strong interest in Data Engineering, and expertise in ETL concepts, always seeking opportunities to enhance technical skills and contribute to innovative solutions.
 
 ## ⭐ Statistics
 ![Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rey-andre&show_icons=true&theme=nightowl)
