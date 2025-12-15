@@ -6,11 +6,10 @@ A Web Developer and Software Engineering Technology graduate from IPB University
 ## ⭐ Statistics
 <div align="center">
   <a href="https://github.com/rey-andre">
-    <img src="https://github-readme-stats.vercel.app/api?username=rey-andre&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="Rey's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rey-andre&show_icons=true&theme=nightowl&count_private=true&hide_border=true" height="180" alt="Rey's GitHub stats" />
   </a>
-  <br/>
   <a href="https://github.com/rey-andre">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rey-andre&layout=compact&theme=nightowl&hide_border=true&hide=html" alt="Rey's Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rey-andre&layout=compact&theme=nightowl&hide_border=true&hide=html" height="180" alt="Rey's Top Langs" />
   </a>
 </div>
 
