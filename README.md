@@ -3,7 +3,7 @@
 ## About Me
 A Web Developer and Software Engineering Technology graduate from IPB University, with experience in web application development, a strong interest in Data Engineering, and expertise in ETL concepts, always seeking opportunities to enhance technical skills and contribute to innovative solutions.
 
-<-- ## ⭐ Statistics
+<!-- ## ⭐ Statistics
 <div align="center">
   <a href="https://github.com/rey-andre">
     <img src="https://github-readme-stats.vercel.app/api?username=rey-andre&show_icons=true&theme=nightowl&count_private=true&hide_border=true" height="180" alt="Rey's GitHub stats" />
